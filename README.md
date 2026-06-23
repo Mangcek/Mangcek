@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Axel Ferdinand
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP & Mysql
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI & Automation
 - 📫 How to reach me (Discord mangcek#1516)
 
 <!---
